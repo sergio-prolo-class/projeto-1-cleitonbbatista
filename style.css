@@ -73,3 +73,9 @@ h2{
 .cursoAtual{
     line-height: 4px;
 }
+
+#roomriddle{
+    border-radius: 4px;
+    height: auto;
+    width: 40vw;
+}
